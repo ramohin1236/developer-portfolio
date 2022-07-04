@@ -33,4 +33,16 @@
  body{
      margin: 0;
  }
- 
+ .dream-big{
+    padding-left: 50px;
+    padding-top:100px;
+ }
+ .moga{
+    padding-left: 10px;
+    padding-top: 10px;
+ }
+ .dream-big{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;  
+    background-position: right;
+   }
