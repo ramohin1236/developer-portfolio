@@ -51,7 +51,7 @@
     padding-right: 50px;
 }
 .shadow{
-    padding-left: 40px;
+    padding-left: 40px 40px 30px 50px;
     box-shadow: 10px 10px 60px gray;
     width: 40%;
     margin-left: 5%;
@@ -63,4 +63,13 @@
    .experience-area{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+   }
+   #tohin{
+    border-left: 10px solid blue;
+   }
+   #mohin{
+    border-left: 10px solid tomato;
+   }
+   footer p{
+    text-align: center;
    }
