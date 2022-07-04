@@ -1,0 +1,36 @@
+.first{
+    color: brown;
+ }
+ section{
+     display: flex;
+ }
+ h1{
+     font-size: 40px;
+ }
+ p{
+     font-size: 20px;
+ }
+ .second{
+     padding-left: 20px;
+ }
+ .third{
+     padding: 20px;
+ }
+ .link-button{
+     font-size: 30px;
+     text-decoration: bisque;
+     background-color: dimgrey;
+     padding: 10px 40px;
+     border-radius: 5px;
+     background-image: linear-gradient(orange,tomato);
+     color: white;
+     font-weight: 700;
+ }
+ .top-banner{
+     background-image: url(top-banner.png);
+     background-repeat: no-repeat;
+ }
+ body{
+     margin: 0;
+ }
+ 
