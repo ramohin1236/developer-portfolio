@@ -49,4 +49,18 @@
    .half-width{
     padding-left: 20px;
     padding-right: 50px;
+}
+.shadow{
+    padding-left: 40px;
+    box-shadow: 10px 10px 60px gray;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+   }
+   .ha{
+    padding-left: 40px;
+   }
+   .experience-area{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
    }
