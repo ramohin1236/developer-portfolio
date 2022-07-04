@@ -1,7 +1,7 @@
 .first{
     color: brown;
  }
- section{
+ .flexible-container{
      display: flex;
  }
  h1{
@@ -45,4 +45,8 @@
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;  
     background-position: right;
+   }
+   .half-width{
+    padding-left: 20px;
+    padding-right: 50px;
    }
